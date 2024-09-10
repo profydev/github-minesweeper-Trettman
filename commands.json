@@ -43,6 +43,11 @@
     "flag C3",
     "clear C2",
     "flag C1",
-    "clear B3"
+    "clear B3",
+    "clear B1",
+    "clear B2",
+    "clear A2",
+    "clear A3",
+    "clear A1"
   ]
 }
